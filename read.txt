@@ -2,3 +2,9 @@ install prittier:
     npm install --save-dev --save-exact prettier
     npx prettier . --write
 
+i nodemon in dev depndencies
+    npm i -D nodemon
+
+create folders
+    mkdir controllers, db, middlewares, models, routes, utils, validators
+
